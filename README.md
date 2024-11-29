@@ -1,8 +1,6 @@
 PROJECT NAME:- MediScan
 
-Screenshots :- 1.https://drive.google.com/file/d/1Pz7uPXpo-Ptxokj7d4-7GZi2t1Ht4D1_/view?usp=drive_link 2.https://drive.google.com/file/d/19NYErxc2SPPYJ7f4-B0F3j8ram12NwYz/view?usp=drive_link 3.https://drive.google.com/file/d/17uvRJl9TRWtGMV1sHYSzmUBSksrijDtu/view?usp=drive_link 4.https://drive.google.com/file/d/17uvRJl9TRWtGMV1sHYSzmUBSksrijDtu/view?usp=drive_link
 
-Video recording:- https://drive.google.com/file/d/1CyLILDEtTZdwi0Z_221Sz-Vybbf9OjdI/view?usp=drive_link
 
 BASIC DETAILS
 
